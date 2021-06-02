@@ -1,4 +1,4 @@
-# wpf-prj-01
+# wpf-wpf-01-04-01-prj-ListView-empty
 ## Vásárolt termékek kiválasztása
 Csoportmunka gyakorlás a következő WPF alkalmazás minta alapján.  
 ### WPF alkalmazás minta
